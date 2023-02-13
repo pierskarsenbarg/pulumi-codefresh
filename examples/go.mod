@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-xyz/examples
+module github.com/pierskarsenbarg/pulumi-codefresh/examples
 
 go 1.16
